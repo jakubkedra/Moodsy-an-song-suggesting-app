@@ -1,0 +1,84 @@
+.customButton{
+    background-color: #1fdf64 !important;
+    border-color: #1fdf64 !important;
+    border-radius: 24px!important;
+    width: 50% !important;
+    box-shadow: 0px 8px 15px rgba(0,0,0,.4);
+  }
+  .customButton:hover{
+    color: black !important;
+  }
+  .input{
+    border: none !important;
+    border-radius: 24px!important;
+    height: 40px !important;
+    box-shadow: 0px 8px 15px rgba(0,0,0,.4);
+  }
+  .input:focus{
+    outline: none !important;
+  }
+  .customCard{
+    background-color: #282828 !important;
+    border-color: #282828 !important;
+    box-shadow: 0px 8px 15px rgba(0,0,0,.4);
+    font-family: Circular, spotify-circular, Helvetica, Arial, sans-serif !important;
+    color: white;
+  }
+  .customCardBorder{
+    border-color: #282828 !important;
+  }
+  .App{
+    height: 100%;
+    background-color: #171717 !important;
+    font-family: Circular, spotify-circular, Helvetica, Arial, sans-serif !important;
+  }
+  .about-border {
+    display: block;
+    width: 230px;
+    height: 3px;
+    background: #1fdf64;
+    margin: 20px auto;
+  }
+  .bborder{
+    display: block;
+    width: 230px;
+    height: 3px;
+    background: #1fdf64;
+    margin-left: 0px;
+  }
+  .toRegister{
+    color: #1fdf64;
+    text-decoration: none !important;
+  }
+  .toRegister:hover{
+    color: #1fdf64;
+  }
+  .navbar{
+    background-color: #282828 !important;
+    border-color: #282828 !important;
+    font-family: Circular, spotify-circular, Helvetica, Arial, sans-serif !important;
+    color: white !important;
+  }
+  .odt{
+    width: 13rem;
+  }
+
+  input {
+    width: 100%;
+    border-radius: 4px;
+    padding: 6px 10px; line-height: 28px;
+    font-family: Circular, spotify-circular, Helvetica, Arial, sans-serif !important;
+  }
+.nav-link{
+  color: #ffffff;
+  border-color: none;
+}
+.nav-link:hover{
+  color: #1fdf64;
+}
+canvas{
+
+  width:450px !important;
+  height:450px !important;
+
+}
